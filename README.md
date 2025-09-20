@@ -8,7 +8,7 @@
 سوپر استور یک شرکت خرده‌فروشی مستقر در ایالات متحده است. این شرکت در فروش مبلمان، لوازم اداری و محصولات فناوری تخصص دارد. این دیتاست شامل 20 ستون و 9995 رکورد است. نام ستون ها به شرح زیر است :
 
 Order ID ,	Order Date ,	Ship Date ,	Ship Mode ,	Customer ID ,	Customer Name	, Segment ,	Country ,	City ,	State ,	Postal Code ,	Region ,	Product ID ,	Category ,	Sub-Category ,	Product Name ,	Sales ,	Quantity ,	Discount ,	Profit .
-می توانید دیتاست را در لینک زیر مشاهده نمایید : 
+می توانید دیتاست را در لینک زیر مشاهده نمایید : https://drive.google.com/file/d/1tyeZkWXo3Lhs5xVk3dDJYpfvBDaUYR5K/view?usp=drivesdk
 ## فایل کدها 
 EDA_SuperStore_Dataset.ipynb
 ## مراحل انجام کار
