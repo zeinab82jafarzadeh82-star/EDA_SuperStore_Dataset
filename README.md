@@ -9,7 +9,8 @@
 
 Order ID ,	Order Date ,	Ship Date ,	Ship Mode ,	Customer ID ,	Customer Name	, Segment ,	Country ,	City ,	State ,	Postal Code ,	Region ,	Product ID ,	Category ,	Sub-Category ,	Product Name ,	Sales ,	Quantity ,	Discount ,	Profit .
 می توانید دیتاست را در لینک زیر مشاهده نمایید : 
-
+## فایل کدها 
+EDA_SuperStore_Dataset.ipynb
 ## مراحل انجام کار
 1. EDA (Exploratory Data Analysis)
 
